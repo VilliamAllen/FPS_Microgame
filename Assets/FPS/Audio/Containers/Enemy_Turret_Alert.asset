@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8568579911547971569
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Long-005_{-8568579911547971569}
+  m_AudioClip: {fileID: 8300000, guid: 69f535cfb82aebd4e96478c8759cd7f2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4707720363793883966
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Long-003_{-4707720363793883966}
+  m_AudioClip: {fileID: 8300000, guid: c29c095192c2b384e8ca9a0b1065fe56, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1543841779280561538
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Long-004_{-1543841779280561538}
+  m_AudioClip: {fileID: 8300000, guid: 975c9f9d72ff79049a8069923e910f29, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4883095621793132800
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Long-001_{4883095621793132800}
+  m_AudioClip: {fileID: 8300000, guid: dafc7cf868690c549966cb8bc783b492, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5936229313138779168
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Long-002_{5936229313138779168}
+  m_AudioClip: {fileID: 8300000, guid: 2fd793cbd75482044aa5f2a09337cf4c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy_Turret_Alert
+  m_Volume: 0
+  m_Pitch: -498
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: -70.73686, y: 121.26317}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 4883095621793132800}
+  - {fileID: 5936229313138779168}
+  - {fileID: -4707720363793883966}
+  - {fileID: -1543841779280561538}
+  - {fileID: -8568579911547971569}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

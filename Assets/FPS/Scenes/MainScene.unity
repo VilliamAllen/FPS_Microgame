@@ -238,6 +238,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2104015986810675393, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: laserSFX
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 281e06ae7475c1742b76800c97001b97,
+        type: 2}
+    - target: {fileID: 2728701690181728318, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: bb83150df3adf0f43a86781f6dc8cba7,
+        type: 2}
     - target: {fileID: 4752156053906186385, guid: 25a1b0efadb966e44889fce712c8ff8d,
         type: 3}
       propertyPath: PitchDistortionMovementSpeed.Max
@@ -248,6 +260,12 @@ PrefabInstance:
       propertyPath: PitchDistortionMovementSpeed.Min
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7795378780609669577, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 7cfdb82a6acdb7448995d7eb05f4fcae,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -423,6 +441,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2104015986810675393, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: laserSFX
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 281e06ae7475c1742b76800c97001b97,
+        type: 2}
+    - target: {fileID: 2728701690181728318, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: bb83150df3adf0f43a86781f6dc8cba7,
+        type: 2}
     - target: {fileID: 4752156053906186385, guid: 25a1b0efadb966e44889fce712c8ff8d,
         type: 3}
       propertyPath: PitchDistortionMovementSpeed.Max
@@ -433,6 +463,12 @@ PrefabInstance:
       propertyPath: PitchDistortionMovementSpeed.Min
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7795378780609669577, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 7cfdb82a6acdb7448995d7eb05f4fcae,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -801,11 +837,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2104015986810675393, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: laserSFX
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 281e06ae7475c1742b76800c97001b97,
+        type: 2}
+    - target: {fileID: 2728701690181728318, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: bb83150df3adf0f43a86781f6dc8cba7,
+        type: 2}
     - target: {fileID: 4752156053906186385, guid: 25a1b0efadb966e44889fce712c8ff8d,
         type: 3}
       propertyPath: PitchDistortionMovementSpeed.Max
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7795378780609669577, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 7cfdb82a6acdb7448995d7eb05f4fcae,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2873,6 +2927,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 66123917132899294, guid: e29d43f43cc5d82499dd9926e01847d3,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.428
+      objectReference: {fileID: 0}
+    - target: {fileID: 66123917132899294, guid: e29d43f43cc5d82499dd9926e01847d3,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 4a4d81e5fd31fcf4896bc43e3d9c7087,
+        type: 2}
     - target: {fileID: 2015434656898269652, guid: e29d43f43cc5d82499dd9926e01847d3,
         type: 3}
       propertyPath: m_Name
@@ -2953,6 +3018,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2104015986810675393, guid: e29d43f43cc5d82499dd9926e01847d3,
+        type: 3}
+      propertyPath: laserSFX
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: be20b06ce06099841ac45c366fce0ff3,
+        type: 2}
     - target: {fileID: 2231955200838058728, guid: e29d43f43cc5d82499dd9926e01847d3,
         type: 3}
       propertyPath: MaxDistance
@@ -2963,6 +3034,12 @@ PrefabInstance:
       propertyPath: MinDistance
       value: 1.3
       objectReference: {fileID: 0}
+    - target: {fileID: 3242690549883016079, guid: e29d43f43cc5d82499dd9926e01847d3,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 697f2992045bdee448250d3b34e06b74,
+        type: 2}
     - target: {fileID: 4234830436940505133, guid: e29d43f43cc5d82499dd9926e01847d3,
         type: 3}
       propertyPath: aimingPivotVerticalOffset
@@ -3688,6 +3765,12 @@ PrefabInstance:
       propertyPath: gravityDownForce
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 1638771392900281962, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: f5230c3455a465b42a62586d086b53de,
+        type: 2}
     - target: {fileID: 2286125971047457827, guid: 761cdc9e4e883334cbdcea062d0befa7,
         type: 3}
       propertyPath: m_ClearFlags
@@ -4383,6 +4466,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2104015986810675393, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: laserSFX
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 281e06ae7475c1742b76800c97001b97,
+        type: 2}
+    - target: {fileID: 2231955200838058728, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728701690181728318, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: bb83150df3adf0f43a86781f6dc8cba7,
+        type: 2}
+    - target: {fileID: 7795378780609669577, guid: 25a1b0efadb966e44889fce712c8ff8d,
+        type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 6418180475301049370, guid: 7cfdb82a6acdb7448995d7eb05f4fcae,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

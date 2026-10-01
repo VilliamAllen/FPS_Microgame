@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-9185835652431125641
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-012_{-9185835652431125641}
+  m_AudioClip: {fileID: 8300000, guid: a9c1694c3bfa8d844839cfdf301953db, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-8386215923148934964
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-003_{-8386215923148934964}
+  m_AudioClip: {fileID: 8300000, guid: 98950a04b96377d47af0d1dfea527f4a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4506113008553726010
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-009_{-4506113008553726010}
+  m_AudioClip: {fileID: 8300000, guid: ea0a7ff7f1ea09b45964116438f887ff, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2594023100275448623
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-007_{-2594023100275448623}
+  m_AudioClip: {fileID: 8300000, guid: b75b4869c29f3d9439c3955e7bfc469a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1188206102194527503
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-001_{-1188206102194527503}
+  m_AudioClip: {fileID: 8300000, guid: ee303e052d652024994f960131371fbd, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1167389527880627747
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-011_{-1167389527880627747}
+  m_AudioClip: {fileID: 8300000, guid: 30d959305514d714081eeef9060954aa, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-712118373817711913
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-004_{-712118373817711913}
+  m_AudioClip: {fileID: 8300000, guid: 209476fffe7ec914ca71adbc982fab88, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &422960003562365853
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-010_{422960003562365853}
+  m_AudioClip: {fileID: 8300000, guid: 72e350743b7a7f9429205b455ca93a4e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &974919230587130697
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-008_{974919230587130697}
+  m_AudioClip: {fileID: 8300000, guid: 31bdcbf6e90181044b20ee2ea4444b98, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3949119838010627352
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-002_{3949119838010627352}
+  m_AudioClip: {fileID: 8300000, guid: 746f3969ad474364ba0d43ff2e1b05ff, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5086448571556618240
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-005_{5086448571556618240}
+  m_AudioClip: {fileID: 8300000, guid: 589d60f1c6c5e1b469cde63f50d9693c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6158103775473458524
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Alarm_Short-006_{6158103775473458524}
+  m_AudioClip: {fileID: 8300000, guid: c7eb175055134c94da82ac9a5f63c992, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy_HoverBot_Alert
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -3.0967712, y: 0}
+  m_PitchRandomizationRange: {x: -147.09677, y: 162.58063}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -1188206102194527503}
+  - {fileID: 3949119838010627352}
+  - {fileID: -8386215923148934964}
+  - {fileID: -712118373817711913}
+  - {fileID: 5086448571556618240}
+  - {fileID: 6158103775473458524}
+  - {fileID: -2594023100275448623}
+  - {fileID: 974919230587130697}
+  - {fileID: -4506113008553726010}
+  - {fileID: 422960003562365853}
+  - {fileID: -1167389527880627747}
+  - {fileID: -9185835652431125641}
+  m_AvoidRepeatingLast: 2
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

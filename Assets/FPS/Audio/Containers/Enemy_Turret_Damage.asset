@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-5479583071757882306
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Metal_Impact_Low-006_{-5479583071757882306}
+  m_AudioClip: {fileID: 8300000, guid: 02a8b2cd4714c6242a953119aae0e9f0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1357141413464314699
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Metal_Impact_Low-002_{1357141413464314699}
+  m_AudioClip: {fileID: 8300000, guid: bbed5c399d9ddc04ca14e17fc4e38036, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2182626046340249979
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Metal_Impact_Low-005_{2182626046340249979}
+  m_AudioClip: {fileID: 8300000, guid: ce5ebcc5f83ee044f8c147fe8b66d6d2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy_Turret_Damage
+  m_Volume: 0
+  m_Pitch: -147
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -4.0421057, y: 0}
+  m_PitchRandomizationRange: {x: -285.47366, y: 65.68408}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 2182626046340249979}
+  - {fileID: -5479583071757882306}
+  - {fileID: 1357141413464314699}
+  - {fileID: 7889209964633592123}
+  m_AvoidRepeatingLast: 2
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7889209964633592123
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Metal_Impact_Low-001_{7889209964633592123}
+  m_AudioClip: {fileID: 8300000, guid: c6df2e9a12b0c0d42a3fc7e7f34f3688, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
